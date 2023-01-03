@@ -14,3 +14,9 @@ Sharing some thought and happiness with 🐱**Mimi**(DSH) and 🐶**Mars**(Aussi
 5. `hexo g` 🧩 (generate)  --> generate html files
 6. `hexo d` 🎯 (deploy) --> deploy everything to GitHub
 7. DONE! ✅ 
+
+## When moving to new computer
+1. install Git
+1. install NodeJS and npm
+1. install hexo
+1. download files from github repo (2 branches)
