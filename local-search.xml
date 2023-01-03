@@ -21,7 +21,7 @@
     <link href="/2022/12/31/some-test/"/>
     <url>/2022/12/31/some-test/</url>
     
-    <content type="html"><![CDATA[<p>this is some test for making a new post</p><p><img src="mars.png" alt="this is baby mars"></p>]]></content>
+    <content type="html"><![CDATA[<p>this is some test for making a new post</p><p><img src="mars.PNG" alt="this is baby mars"></p>]]></content>
     
     
     
