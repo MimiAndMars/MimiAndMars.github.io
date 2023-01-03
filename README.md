@@ -4,7 +4,8 @@ Sharing some thought and happiness with 🐱**Mimi**(DSH) and 🐶**Mars**(Aussi
 ## To Do List:  
 
 > 1. Create a new branch for all other source files for Hexo.   
-> 1. Make a README.md file that record all steps for making a new post. 
+> 1. Make a README.md file that record all steps for making a new post.
+> 1. replace 头像 and some images from the website, could be done in source folder 
 
 ## To make a new post:
 1. cd toHexoDir
