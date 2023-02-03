@@ -15,9 +15,9 @@ Sharing some thought and happiness with 🐱**Mimi**(DSH) and 🐶**Mars**(Aussi
 3. write the post; don't forget tags, categories; also save images in the correspond folder
 4. `hexo clean` 🧼 --> clear buffer, make sure all updated have been saved
 5. `hexo g` 🧩 (generate)  --> generate html files 
-5. STOP here! Copy everything under the public folder to Git folder, and commit! 
-6. `hexo d` 🎯 (deploy) --> deploy everything to GitHub(do not excute this line! since it will uplaod everything!)
-7. DONE! ✅ 
+6. STOP here! Copy everything under the public folder to Git folder, and commit! 
+7. ~~`hexo d` 🎯 (deploy) --> deploy everything to GitHub~~ (do not excute this line! since it will uplaod everything!)
+8. DONE! ✅ 
 
 ## When moving to new computer
 1. install Git
